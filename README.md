@@ -1,6 +1,6 @@
 # scape.ch
 
-[scape](www.scape.ch)
+[scape](http://www.scape.ch)
 
 https://www.slideshare.net/DimitryDemin/rose-pavilion-presentation-work-in-progress-design-thinking
 
