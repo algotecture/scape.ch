@@ -1,8 +1,9 @@
-# scape
+# Scape
 
 scape.ch is a repo deploys the code that runs the website [scape](http://www.scape.ch)
 
-## Intro
+## Project Information
+
 Scape makes magical spaces as the Rose Pavilion:
 
 https://www.world-architects.com/en/architecture-news/works/rose-pavilion-1
